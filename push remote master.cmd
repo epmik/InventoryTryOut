@@ -1,2 +1,2 @@
-git push origin main
+git push -u origin main
 PAUSE
